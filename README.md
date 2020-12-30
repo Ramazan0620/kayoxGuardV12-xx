@@ -1,2 +1,5 @@
-# kayoxGuardV12-xx
-Guard Kayox
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
